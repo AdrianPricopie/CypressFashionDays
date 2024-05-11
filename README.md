@@ -25,6 +25,13 @@ The primary objectives include simulating user interactions on  several function
 It enables easy product catalog management, inventory control, online store integration, and customer relationship management. 
 The platform also includes order processing, data analytics, and extensive support to aid growing businesses. 
 Available in both cloud and on-premise options, FashionDays is the ideal solution for fashion brands and retailers.
+This project utilizes the Page Object Model (POM).
+
+- **Advantages**: Utilizing POM brings several benefits, including:
+  - **Reusability**: POM methods can be reused across different tests without the need to rewrite code.
+  - **Easy maintenance**: A change in a page requires updating only the corresponding POM file, without affecting other tests.
+  - **Clarity and organization**: POM separates logically the elements from the specific actions of the page, making the code more understandable and maintainable.
+
 
 
 - [Website](https://www.fashiondays.ro/)
@@ -40,10 +47,6 @@ Available in both cloud and on-premise options, FashionDays is the ideal solutio
 - **cypress/integration/Tests/**: All the tests are stored here.
 - **cypress/reports/**: This directory is where Cypress generates test reports.
 
-- Advantages: Utilizing POM brings several benefits, including:
-  - **Reusability**: POM methods can be reused across different tests without the need to rewrite code.
-  - **Easy maintenance**: A change in a page requires updating only the corresponding POM file, without affecting other tests.
-  - **Clarity and organization**: POM separates logically the elements from the specific actions of the page, making the code more understandable and maintainable.
 
 ## Getting Started  :pushpin:
 
