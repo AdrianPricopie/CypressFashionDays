@@ -19,7 +19,7 @@ The primary objectives include simulating user interactions on  several function
 - Library:
   - [![Cypress](https://img.shields.io/npm/v/cypress?color=33ff99&label=cypress&logo=cypress&logoColor=33ff99&style=for-the-badge)](https://www.cypress.io)
   - cypress-mochawesome-reporter 3.8.2
-  - (cypress-mailosaur)[https://mailosaur.com/]
+  - [cypress-mailosaur](https://mailosaur.com/)
 
 **FashionDays** is a platform tailored for the fashion industry, offering a suite of tools for efficiently managing clothing and accessory businesses. 
 It enables easy product catalog management, inventory control, online store integration, and customer relationship management. 
