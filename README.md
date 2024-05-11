@@ -91,6 +91,7 @@ all the tests are passed
 # Jenkins 
 
 ![](https://github.com/AdrianPricopie/CypressFashionDays/blob/main/ScreenshotsForGit/Screenshot%202024-05-11%20at%2018.40.11.png)
+![](https://github.com/AdrianPricopie/CypressFashionDays/blob/main/ScreenshotsForGit/Screenshot%202024-05-11%20at%2018.41.10.png)
 
 # Conclusion
 
