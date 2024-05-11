@@ -86,6 +86,8 @@ This report outlines the testing conducted on 11 May 2024 and documents all the 
 ![TestsReport](https://github.com/AdrianPricopie/CypressFashionDays/blob/main/ScreenshotsForGit/Screenshot%202024-05-11%20at%2018.12.53.png)
 ![TestsReport](https://github.com/AdrianPricopie/CypressFashionDays/blob/main/ScreenshotsForGit/Screenshot%202024-05-11%20at%2018.12.59.png)
 
+all the tests are passed 
+
 # Conclusion
 
 - **Test Coverage/**: The test suite covers various aspects of the FashionDays website, including the main page functionalities, search functionality, filtering options, adding/removing products from the cart and wishlist, navigating between search result pages, and verifying URLs.
