@@ -7,7 +7,13 @@
 
     "tests": "npx cypress run",
     "headTests":"npx cypress run --headed",
-    "SmokeTest":"npx cypress run --spec \"cypress/integration/tests/Test_FashionDays_main_page.js\""
+    "TestMainPage":"npx cypress run --spec \"cypress/integration/tests/Test_FashionDays_main_page.js\"",
+    "TestSearch":"npx cypress run --spec \"cypress/integration/tests/Test_Search.js\"",
+    "TestLogin":"npx cypress run --spec \"cypress/integration/tests/LoginFunctionality.js\"",
+    "TestRegister":"npx cypress run --spec \"cypress/integration/tests/RegisterFunctionality.js\"",
+    "TestFilterProduct":"npx cypress run --spec \"cypress/integration/tests/Test_FilterProduct.js\"",
+    "TestCart":"npx cypress run --spec \"cypress/integration/tests/TestCartFunctionality.js\"",
+    "TestWishlist":"npx cypress run --spec \"cypress/integration/tests/Tests_Wishlist_Functionality.js\""
 
   },
   "author": "",
