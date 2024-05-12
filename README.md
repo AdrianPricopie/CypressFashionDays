@@ -11,8 +11,7 @@ Welcome to the documentation for the automated testing project designed for the 
 
 # Introduction :notebook:
  
-This project aims to implement automated tests for the FashionDays opensource website using Cypress.
-The primary objectives include simulating user interactions on  several functionalities ,such as : main page , wishlist ,cart ,filter product ,search,login and register.
+This project aims to implement automated tests for the FashionDays opensource website using Cypress. The primary objectives include simulating user interactions on several functionalities such as: Main Page, Wishlist, Cart, Filter Product, Search, Login and Register.
 
 - Language:**JavaScript**
 - Editor code:**VsCode**
